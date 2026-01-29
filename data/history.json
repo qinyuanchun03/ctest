@@ -1086,5 +1086,24 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-01-29 10:36:42.235799"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Unicom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-01-29 11:31:01.049553"
   }
 ]
