@@ -3294,5 +3294,28 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-02-02 06:03:13.443687"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 1700,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://sn-ct-v4.ip.zstaticcdn.com:80"
+      },
+      "Unicom": {
+        "latency": 644,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://yn-cu-v4.ip.zstaticcdn.com:80"
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-02-02 07:33:16.436229"
   }
 ]
