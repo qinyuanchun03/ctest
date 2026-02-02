@@ -3530,5 +3530,26 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-02-02 18:43:08.827458"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 689,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://sn-ct-v4.ip.zstaticcdn.com:80"
+      },
+      "Unicom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-02-02 23:08:49.820303"
   }
 ]
