@@ -16,25 +16,6 @@
       }
     },
     "status": "\u5dee",
-    "timestamp": "2026-03-10 12:59:34.382337"
-  },
-  {
-    "domain": "1.yx.260122.xyz",
-    "details": {
-      "Telecom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Unicom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Mobile": {
-        "latency": 9999,
-        "packet_loss": 100
-      }
-    },
-    "status": "\u5dee",
     "timestamp": "2026-03-10 14:05:03.500415"
   },
   {
@@ -3928,5 +3909,26 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-03-19 07:06:29.988752"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Unicom": {
+        "latency": 536,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://yn-cu-v4.ip.zstaticcdn.com:80"
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-03-19 08:02:13.239365"
   }
 ]
