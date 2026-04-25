@@ -16,25 +16,6 @@
       }
     },
     "status": "\u5dee",
-    "timestamp": "2026-04-12 22:34:17.680604"
-  },
-  {
-    "domain": "1.yx.260122.xyz",
-    "details": {
-      "Telecom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Unicom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Mobile": {
-        "latency": 9999,
-        "packet_loss": 100
-      }
-    },
-    "status": "\u5dee",
     "timestamp": "2026-04-12 23:34:28.882866"
   },
   {
@@ -3950,5 +3931,26 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-04-25 11:37:53.828041"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 1172,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://hn-ct-v4.ip.zstaticcdn.com:80"
+      },
+      "Unicom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-04-25 13:03:12.709140"
   }
 ]
