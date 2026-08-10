@@ -7,27 +7,6 @@
         "packet_loss": 100
       },
       "Unicom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Mobile": {
-        "latency": 1055,
-        "packet_loss": 0,
-        "status": "success",
-        "proxy": "http://tj-cm-v4.ip.zstaticcdn.com:80"
-      }
-    },
-    "status": "\u5dee",
-    "timestamp": "2026-07-27 21:37:50.895474"
-  },
-  {
-    "domain": "1.yx.260122.xyz",
-    "details": {
-      "Telecom": {
-        "latency": 9999,
-        "packet_loss": 100
-      },
-      "Unicom": {
         "latency": 552,
         "packet_loss": 0,
         "status": "success",
@@ -3994,5 +3973,26 @@
     },
     "status": "\u5dee",
     "timestamp": "2026-08-10 16:59:54.196819"
+  },
+  {
+    "domain": "1.yx.260122.xyz",
+    "details": {
+      "Telecom": {
+        "latency": 671,
+        "packet_loss": 0,
+        "status": "success",
+        "proxy": "http://hn-ct-v4.ip.zstaticcdn.com:80"
+      },
+      "Unicom": {
+        "latency": 9999,
+        "packet_loss": 100
+      },
+      "Mobile": {
+        "latency": 9999,
+        "packet_loss": 100
+      }
+    },
+    "status": "\u5dee",
+    "timestamp": "2026-08-10 17:55:37.197457"
   }
 ]
